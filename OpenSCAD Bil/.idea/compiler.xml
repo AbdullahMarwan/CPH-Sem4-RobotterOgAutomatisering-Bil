@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NewTrainSystem" />
+        <module name="JavaMavenProjectTemplate" />
+        <module name="JavaCSG_Bil" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="NewTrainSystem" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
